@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nikhilupadhyay19.github.io/csb-w9czb/static/css/main.9cdae43f.chunk.css",
+    "main.js": "https://nikhilupadhyay19.github.io/csb-w9czb/static/js/main.4885395d.chunk.js",
+    "main.js.map": "https://nikhilupadhyay19.github.io/csb-w9czb/static/js/main.4885395d.chunk.js.map",
+    "runtime-main.js": "https://nikhilupadhyay19.github.io/csb-w9czb/static/js/runtime-main.64a9ef65.js",
+    "runtime-main.js.map": "https://nikhilupadhyay19.github.io/csb-w9czb/static/js/runtime-main.64a9ef65.js.map",
+    "static/js/2.79590e5b.chunk.js": "https://nikhilupadhyay19.github.io/csb-w9czb/static/js/2.79590e5b.chunk.js",
+    "static/js/2.79590e5b.chunk.js.map": "https://nikhilupadhyay19.github.io/csb-w9czb/static/js/2.79590e5b.chunk.js.map",
+    "index.html": "https://nikhilupadhyay19.github.io/csb-w9czb/index.html",
+    "static/css/main.9cdae43f.chunk.css.map": "https://nikhilupadhyay19.github.io/csb-w9czb/static/css/main.9cdae43f.chunk.css.map",
+    "static/js/2.79590e5b.chunk.js.LICENSE.txt": "https://nikhilupadhyay19.github.io/csb-w9czb/static/js/2.79590e5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64a9ef65.js",
+    "static/js/2.79590e5b.chunk.js",
+    "static/css/main.9cdae43f.chunk.css",
+    "static/js/main.4885395d.chunk.js"
+  ]
+}
